@@ -2,6 +2,9 @@
 
 VoteVista is an open application that allows users to create questions, add options, and cast votes on their favorite options. No authentication is required, making it an inclusive platform for polling and voting.
 
+## Hosted URL : 
+   https://votevista-polling-api.onrender.com
+
 ## Installation
 
 1. **Clone the Repository:**
